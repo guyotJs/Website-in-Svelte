@@ -34,14 +34,12 @@
 <div class="w3-row">
 <!-- Item 1	 -->
 	<div class="w3-col item w3-margin bc-r-25 hv" style="width:220px; height:220px;">
-		<h1><blue><b>v0.5.5</b></blue></h1>
+		<h1><blue><b>v0.5.6</b></blue></h1>
 		<p>
 			<b>Changelog</b>
 		</p>
 		<p>
-			- Added "Upcoming"<br/>
-			- Added links to github<br/>
-			- Div grid scaling in w3.css
+			- Changed Background<br/>
 		</p>
 	</div>
 <!-- Item 2	 -->
@@ -51,7 +49,6 @@
 <!-- Upcoming -->
 	<div class="w3-col item w3-margin bc-r-25 hv" style="width:220px; height:220px;">
 		<h1>Upcoming</h1>
-		<p><blue>Super Mario Land</blue></p>
 		<p><blue>Super Mario Kart(2ply*)</blue></p>
 		<p><blue>Final Fantasy VI</blue></p>
 	</div>

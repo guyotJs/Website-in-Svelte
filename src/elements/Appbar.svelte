@@ -16,8 +16,8 @@
 		<i class="material-icons">videogame_asset</i><br/>
 		<a href="https://classicmc-studios.github.io/guyot/games/spyro.html" class="bc-text-link ">Spyro Season of Flame__</a> <a href="https://classicmc-studios.github.io/guyot/games/yoshi.html" class="bc-text-link ">Yoshi's Island</a><br/>
 		<a href="https://classicmc-studios.github.io/guyot/games/ffv.html" class="bc-text-link ">Final Fantasy V__</a><a href="https://classicmc-studios.github.io/guyot/games/yo.html" class="bc-text-link "> Yoshi's Island ROM hack</a><br/>
-		<a href="https://classicmc-studios.github.io/guyot/games/emerald.html" class="bc-text-link ">PokÃ©mon Emerald</a><br/>
-		<a href="https://classicmc-studios.github.io/guyot/games/leafgreen.html" class="bc-text-link ">PokÃ©mon Leaf Green</a><br/>
+		<a href="https://classicmc-studios.github.io/guyot/games/emerald.html" class="bc-text-link ">Pokémon Emerald</a><wrap class="bc-text-link">__</wrap> <a href="https://classicmc-studios.github.io/guyot/games/smw.html"class="bc-text-link"> Super Mario World</a><br/>
+		<a href="https://classicmc-studios.github.io/guyot/games/leafgreen.html" class="bc-text-link ">Pokémon Leaf Green</a><br/>
 	</div>
 		<div class="bc-r-10 bc-d_b" style="margin:1%; height: 100px;">
         <i class="material-icons">laptop_chromebook</i><br/>

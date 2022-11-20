@@ -9,11 +9,10 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <style>
 	:global(body){
-		background-color: aliceblue;
 		margin: 0%;
 		padding: 0%;
 		/* A whole bunch of garbage to get backgrounds working */
-		background-image: url("https://classicmc-studios.github.io/guyot/ducky.png");
+		background-image: url("https://classicmc-studios.github.io/guyot/christmas-ducky.png");
 		background-repeat:no-repeat;
 		background-size: cover;
 		background-position: center center;
